@@ -1,2 +1,2 @@
-django==1.11.21
+django==1.11.*
 psycopg2==2.8.*
